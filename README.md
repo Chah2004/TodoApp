@@ -16,7 +16,7 @@ This app helps users add, delete, and manage daily tasks with a clean and respon
 ---
 
 ## 🧱 Project Structure
-
+```
 TodoApp/
 ├── public/ # Static assets
 ├── src/ # React source code
@@ -29,8 +29,7 @@ TodoApp/
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
-
-
+```
 ---
 
 ## 🚀 Getting Started
